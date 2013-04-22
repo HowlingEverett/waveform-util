@@ -18,5 +18,5 @@
 
   "scripts": {
     "prepublish": "cake build"
-  {
+  }
 }
