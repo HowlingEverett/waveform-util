@@ -14,5 +14,9 @@
     "coffee-script": "~1.6",
     "mocha": ">=1.8",
     "chai": ">=1.5"
-  }
+  },
+
+  "scripts": {
+    "prepublish": "cake build"
+  {
 }
