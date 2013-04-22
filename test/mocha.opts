@@ -1,0 +1,5 @@
+--reporter spec
+--ui bdd
+--compilers coffee:coffee-script
+--growl
+--slow 200

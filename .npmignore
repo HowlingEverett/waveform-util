@@ -1,0 +1,5 @@
+Cakefile
+src/
+node_modules/
+test/
+
